@@ -1,12 +1,12 @@
-# 📄 DocMind – From Documents to Podcasts, Videos & Insights
+# DocMind – From Documents to Podcasts, Videos & Insights
 
 Turn static documents into **dynamic media experiences** using AI. Whether it’s a handwritten note, a legal paper, a research article, or a simple receipt — our platform transforms it into **highlighted summaries**, **audio podcasts**, and **explainer videos**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📚 **Document Categorization**  
+-  **Document Categorization**  
   Upload documents under:  
   - Receipts  
   - Legal Papers  
@@ -14,7 +14,7 @@ Turn static documents into **dynamic media experiences** using AI. Whether it’
   - Research Papers  
   - Handwritten Notes (Intensive Mode)
 
-- 🧠 **AI-Powered Understanding**  
+-  **AI-Powered Understanding**  
   Powered by **Mistral OCR** and **Gemma 3**, we support:  
   - Layout & handwriting recognition  
   - Visual + textual Q&A  
@@ -22,18 +22,18 @@ Turn static documents into **dynamic media experiences** using AI. Whether it’
   - Financial table extraction  
   - Important point highlighting  
 
-- 🎧 **Podcast Generation**  
+-  **Podcast Generation**  
   Automatically generate podcasts with Whisper-based voiceover synced to the document flow.
 
-- 🎥 **Video Explainers**  
+-  **Video Explainers**  
   Generate contextual videos with overlays of figures, equations, and highlights using **Remotion**.
 
-- 🖼️ **Interactive PDF Viewer**  
+- 🖼 **Interactive PDF Viewer**  
   Visual overlays for named entities, clauses, figures, and key information.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 | Layer        | Stack Used                              |
 |--------------|------------------------------------------|
@@ -46,35 +46,31 @@ Turn static documents into **dynamic media experiences** using AI. Whether it’
 
 ---
 
-## 💼 Business Model
+##  Business Model
 
 A **freemium SaaS platform** with the following tiers:
 
-- 🔓 **Free Tier** – Limited uploads and media generation  
-- 💼 **Pro Tier** – Bulk processing, integrations (Google Drive, Notion), video exports  
-- 🔌 **API Access** – For developers building on our pipeline  
-- 🧩 **B2B Licensing** – White-labeled for EdTech and LegalTech
+-  **Free Tier** – Limited uploads and media generation  
+-  **Pro Tier** – Bulk processing, integrations (Google Drive, Notion), video exports  
+-  **API Access** – For developers building on our pipeline  
+-  **B2B Licensing** – White-labeled for EdTech and LegalTech
 
 ---
 
-## 👥 Target Users
+##  Target Users
 
-- 🎓 Students & Educators  
-- 🧪 Researchers & Academics  
-- ⚖️ Legal & Finance Professionals  
-- 🏢 Enterprises & Knowledge Managers
+-  Students & Educators  
+-  Researchers & Academics  
+-  Legal & Finance Professionals  
+-  Enterprises & Knowledge Managers
 
 ---
 
-## 🛣️ Roadmap
+##  Roadmap
 
 - [ ] Mobile app (doc-to-podcast on the go)  
 - [ ] Browser extension for real-time document summarization  
 - [ ] Notebook plugin for research workflows
-## 📬 Contact
-
-For partnerships or support, reach us at: **hello@doc2media.ai**
-
 ---
 
 > _From PDFs to Podcasts. From Notes to Narration. Redefine how you interact with documents._
